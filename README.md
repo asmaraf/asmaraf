@@ -48,31 +48,8 @@ I love building modern, responsive, and user-friendly web applications.
 
 ---
 
-## 🚀 Projects  
-
-🔹 **Task Management System (Laravel)**  
-- User Authentication  
-- Task Create, Update, Delete (CRUD)  
-- Responsive Dashboard  
-- Tech: Laravel, PHP, MySQL  
-
-🔹 **Online Job Portal Website**  
-- Job Posting & Apply System  
-- Admin Panel + User Panel  
-- Tech: PHP, MySQL, HTML, CSS  
-
-🔹 **Frontend UI Projects**  
-- Responsive UI Websites  
-- Interactive Web Pages  
-- Tech: HTML, CSS, JavaScript, React  
-
-📌 Check my repositories to see more projects.
-
----
 
 ## 📊 GitHub Stats  
-
-
 
 
 <p align="center">
@@ -81,13 +58,7 @@ I love building modern, responsive, and user-friendly web applications.
 
 ---
 
-## 🏆 GitHub Trophies  
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=asmaraf&theme=tokyonight&row=1&column=6" />
-</p>
-
----
 
 ## 📫 Contact Me  
 
