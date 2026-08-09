@@ -64,8 +64,8 @@ I love building modern, responsive, and user-friendly web applications.
 
 <p align="center">
   <a href="https://abu-saleh-portfolio-live.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="mailto:asmaraf2000@gmail.com"><img src="https://img.shields.io/badge/Email-181717?style=for-the-badge&logo=gmail&logoColor=EA4335"/></a>
-  <a href="https://linkedin.com/in/asm-araf"><img src="https://img.shields.io/badge/LinkedIn-181717?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/></a>
+  <a href="mailto:asmaraf2000@gmail.com"><img src="https://img.shields.io/badge/Email-181717?style=for-the-badge&logo=gmail&logoColor=D14836"/></a>
+  <a href="https://linkedin.com/in/asm-araf"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://x.com/asm_araf"><img src="https://img.shields.io/badge/Twitter-181717?style=for-the-badge&logo=x&logoColor=white"/></a>
 </p>
 ---
