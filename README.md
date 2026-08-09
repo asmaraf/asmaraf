@@ -63,12 +63,11 @@ I love building modern, responsive, and user-friendly web applications.
 ## 📫 Contact Me  
 
 <p align="center">
-  <a href="mailto:asmaraf2000@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/asm-araf"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.facebook.com/abu.saleh.md.araf"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-  <a href="https://x.com/asm_araf"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=FFFFFF"/></a>
+  <a href="https://abu-saleh-portfolio-live.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="mailto:asmaraf2000@gmail.com"><img src="https://img.shields.io/badge/Email-181717?style=for-the-badge&logo=gmail&logoColor=EA4335"/></a>
+  <a href="https://linkedin.com/in/asm-araf"><img src="https://img.shields.io/badge/LinkedIn-181717?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/></a>
+  <a href="https://x.com/asm_araf"><img src="https://img.shields.io/badge/Twitter-181717?style=for-the-badge&logo=x&logoColor=white"/></a>
 </p>
-
 ---
 
 ## ⚡ Fun Fact  
