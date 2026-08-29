@@ -49,11 +49,10 @@ I love building modern, responsive, and user-friendly web applications.
 ---
 
 
-## 📊 GitHub Stats  
-
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=asmaraf&theme=tokyonight" height="160" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=asmaraf&theme=tokyonight" alt="GitHub Streak" height="160"/>
 </p>
 
 ---
